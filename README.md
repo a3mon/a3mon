@@ -22,3 +22,4 @@ Update API endpoint
 Update configuration
 Optimize loop
 Update configuration
+Refactor core logic
