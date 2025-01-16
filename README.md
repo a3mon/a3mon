@@ -18,3 +18,4 @@ Fix typo in README
 Improve performance
 Improve logging
 Refactor core logic
+Update API endpoint
