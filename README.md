@@ -28,3 +28,4 @@ Rewrite function Y
 Optimize loop
 Update API endpoint
 Fix bug in feature X
+Fix typo in README
