@@ -19,3 +19,4 @@ Improve performance
 Improve logging
 Refactor core logic
 Update API endpoint
+Update configuration
